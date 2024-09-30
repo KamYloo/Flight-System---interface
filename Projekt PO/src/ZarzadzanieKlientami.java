@@ -62,6 +62,7 @@ dodajKlientaIndywidualnego();
         });
     }
 
+
     /**
      * metoda ktora otwiea nowe okno z dodawaniem posrednika firmy i zamyka bierzace
      */
